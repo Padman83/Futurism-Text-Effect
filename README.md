@@ -18,6 +18,6 @@ Futurism-Text-Effect
 * [css]
 * [Google Fonts] (https://fonts.google.com)
 
-## Contact
+### Project Link
 
-Project Link: [https://github.com/Padman83/Futurism-Text-Effect]
+* [https://github.com/Padman83/Futurism-Text-Effect]
