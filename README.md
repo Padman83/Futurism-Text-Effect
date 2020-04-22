@@ -1,6 +1,6 @@
-## About The Project
+## About
 
-Futurism-Text-Effect
+Animated Text-Effect.
 
 ![React Native Text Effect@3x](https://user-images.githubusercontent.com/45048950/66937337-dcecfc00-f071-11e9-9f8d-cf8e878ac760.png)
 
@@ -14,8 +14,6 @@ Futurism-Text-Effect
 
 ### Built With
 
-* [html]
-* [css]
 * [Google Fonts] (https://fonts.google.com)
 
 ### Project Link
