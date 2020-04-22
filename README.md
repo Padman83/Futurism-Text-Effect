@@ -1,8 +1,6 @@
 ## About
 
-Animated Text-Effect.
-
-![React Native Text Effect@3x](https://user-images.githubusercontent.com/45048950/66937337-dcecfc00-f071-11e9-9f8d-cf8e878ac760.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/79985678-8e676100-84dd-11ea-8303-8fca7f68f482.gif)
 
 ### Code Editor
 
