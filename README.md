@@ -1,6 +1,6 @@
-## About
+## Futurism Text Effect.
 
-Animated text effect.
+An Animated text effect.
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/79985678-8e676100-84dd-11ea-8303-8fca7f68f482.gif)
 
