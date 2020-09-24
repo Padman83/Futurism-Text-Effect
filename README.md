@@ -1,20 +1,13 @@
 ## Futurism Text Effect.
 
-An Animated text effect.
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/94171734-2ff74200-fec4-11ea-9a4a-fce35a2e8b0f.gif)
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/79985678-8e676100-84dd-11ea-8303-8fca7f68f482.gif)
+## 🧰 System Requirements:
 
-## 🧰 System Requirements
-
-* Mac , Linux or Windows.
-
+* Cross-Platforms.
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Design Tool
-
-* [Adobe XD] (https://www.adobe.com)
-
-### Built With
+## Fonts:
 
 * [Google Fonts] (https://fonts.google.com)
 
